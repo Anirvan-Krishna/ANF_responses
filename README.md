@@ -1,6 +1,6 @@
 # EC60004: Neuronal Coding of Sensory Information 
 
- This repository consists the MATLAB code files for the course project if the course Neuronal Coding of Sensory Information at IIT Kharagpur. The project analysies the neural perception in the auditory system using cat auditory nerve fiber model propose by Zilany and Carney.
+ This repository consists the MATLAB code files for the course project if the course Neuronal Coding of Sensory Information at IIT Kharagpur. The project analysies the neural perception in the auditory system using cat auditory nerve fiber model propose by Zilany and Carney. For details of the problems solved using the MATLAB code, please find the problem sheet in the same repository.
 
 ## Part A
 
