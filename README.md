@@ -89,6 +89,9 @@ The code applies bandpass filters to the audio signal and generates output files
 ## Instructions
 
 - Clone the repository.
+  ```
+  git clone https://github.com/Anirvan-Krishna/ANF_responses.git
+  ```
 - Run the MATLAB scripts for analysis.
 
 # References
