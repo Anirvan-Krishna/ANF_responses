@@ -1,6 +1,6 @@
 # EC60004: Neuronal Coding of Sensory Information 
 
- This repository consists the MATLAB code files for the course project if the course Neuronal Coding of Sensory Information at IIT Kharagpur.  
+ This repository consists the MATLAB code files for the course project if the course Neuronal Coding of Sensory Information at IIT Kharagpur. The project analysies the neural perception in the auditory system using cat auditory nerve fiber model propose by Zilany and Carney.
 
 ## Part A
 
@@ -91,4 +91,6 @@ The code applies bandpass filters to the audio signal and generates output files
 - Clone the repository.
 - Run the MATLAB scripts for analysis.
 
+# References
+Zilany, Muhammad S.A., and Laurence R. Carney. "Power-law dynamics in an auditory-nerve model." Journal of Neuroscience 30.25 (2010): 8439-8452.
 
